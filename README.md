@@ -221,6 +221,7 @@ Review any skill before you install it. Skills can run code and read files on yo
 - [blog-writing-guide](https://github.com/getsentry/skills/tree/main/skills/blog-writing-guide) - Writes and reviews engineering blog posts to Sentry's standards.
 - [copywriting](https://github.com/coreyhaines31/marketingskills/tree/main/skills/copywriting) - Writes and rewrites marketing copy for landing, pricing, and product pages.
 - [defuddle](https://github.com/kepano/obsidian-skills/tree/main/skills/defuddle) - Extracts readable Markdown from web pages with the Defuddle CLI.
+- [harvey-specter](https://github.com/YannisKiefer/harvey-specter/tree/main/skills/harvey-specter) - Prepares negotiations and difficult conversations with evidence, relationship-aware tone, and clear boundaries.
 - [humanizer](https://github.com/blader/humanizer) - Removes common signs of AI-generated writing from text.
 - [internal-comms](https://github.com/anthropics/skills/tree/main/skills/internal-comms) - Writes status reports, leadership updates, and newsletters in set formats.
 - [seo-audit](https://github.com/coreyhaines31/marketingskills/tree/main/skills/seo-audit) - Audits a site for technical and on-page SEO issues.
